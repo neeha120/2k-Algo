@@ -1,4 +1,3 @@
-2k algorithm
-It takes two keys to encrypt the plaintext.
-Block cipher
+2k algorithm:A block cipher which takes 2 keys for encryption
+
 
